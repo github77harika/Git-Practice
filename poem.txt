@@ -1,5 +1,7 @@
-Hi There,
+This is a Rainbow poem
 
-I am writing this Poem for the first time.
-I actually don't know how to write a poem.
-This is for practicing Git.
+Red
+PURPLE
+WHITE
+GREEN 
+YELLOW
