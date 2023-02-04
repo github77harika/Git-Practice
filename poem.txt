@@ -6,3 +6,4 @@ WHITE
 GREEN 
 YELLOW
 unicorn
+indigo
